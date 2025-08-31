@@ -118,4 +118,3 @@ plot(TukeyHSD(res.aov, conf.level=.95), las = 2)
 
 # Since the confidence interval of Z-X includes 0, the production speeds machine Z and X 
 # are significantly different at 0.05 level of significance.
-
